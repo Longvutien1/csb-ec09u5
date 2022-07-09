@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://longvutien1.github.io/csb-ec09u5/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://longvutien1.github.io/csb-ec09u5/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://longvutien1.github.io/csb-ec09u5/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://longvutien1.github.io/csb-ec09u5/static/js/runtime-main.2fac7c0a.js",
+    "runtime-main.js.map": "https://longvutien1.github.io/csb-ec09u5/static/js/runtime-main.2fac7c0a.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://longvutien1.github.io/csb-ec09u5/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://longvutien1.github.io/csb-ec09u5/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://longvutien1.github.io/csb-ec09u5/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://longvutien1.github.io/csb-ec09u5/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://longvutien1.github.io/csb-ec09u5/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fac7c0a.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
